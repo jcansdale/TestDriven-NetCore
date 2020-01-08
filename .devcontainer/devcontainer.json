@@ -1,0 +1,8 @@
+{   // See https://docs.microsoft.com/en-us/visualstudio/online/reference/configuring
+
+    // Install C# and TestDriven extensions
+    "extensions": [
+        "ms-vscode.csharp",
+        "JamieCansdale.testdriven"
+    ]
+}
