@@ -2,6 +2,7 @@
 
     // Install TestDriven for VS Code extension
     "extensions": [
-        "JamieCansdale.testdriven"
+        "JamieCansdale.testdriven",
+        "ms-vscode.csharp"
     ]
 }
