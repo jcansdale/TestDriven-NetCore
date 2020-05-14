@@ -9,5 +9,5 @@
     "image": "mcr.microsoft.com/dotnet/core/sdk:3.1",
 
     // Install act for running workflows
-    "postCreateCommand": "curl https://raw.githubusercontent.com/nektos/act/master/install.sh | sudo bash"
+    "postCreateCommand": "curl https://raw.githubusercontent.com/nektos/act/master/install.sh | bash"
 }
